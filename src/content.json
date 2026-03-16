@@ -1,0 +1,39 @@
+{
+  "home": {
+    "titleLine1": "CAPTURE",
+    "titleLine2": "THE",
+    "titleLine3": "MOMENT.",
+    "titleLine4": "IGNITE",
+    "titleLine5": "THE",
+    "titleLine6": "STORY.",
+    "description": "The Best Stories Don’t Follow A Script. \n\nThey Unfold In Real Moments And are captured as they happen.",
+    "manifestoBold": "RAW EMOTION",
+    "manifestoSecondary": "VISUAL STORYTELLING",
+    "vid1": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&q=80&w=800",
+    "vid2": "https://freerangestock.com/sample/179170/crowd-at-a-concert-with-lights-on-stage-illuminating-the-audience.jpg"
+  },
+  "work": {
+    "intro": "A curated collection of our most impactful stories across festivals, events and brands.",
+    "projects": [
+      {
+        "id": 1773695556024,
+        "title": "Skills Heroes x World Skills 2025",
+        "year": "2025",
+        "image": "https://img.youtube.com/vi/ON0dbVNKMvM/maxresdefault.jpg",
+        "youtubeLink": "https://www.youtube.com/embed/ON0dbVNKMvM"
+      }
+    ]
+  },
+  "about": {
+    "subtitle": "We don't shoot video. We capture visceral reaction.",
+    "body1": "MVG Studios was born from the chaos of live events and the need for authentic corporate storytelling. We believe the best moments are unscripted, raw, and fleeting. Our mission is to freeze those moments in time with cinematic precision.",
+    "body2": "Whether it's the drop at a massive music festival or the subtle human truth behind a global brand, we bring a high-end, futuristic editorial eye to everything we touch.",
+    "image": "https://images.unsplash.com/photo-1518135760377-a8905335af20?auto=format&fit=crop&q=80&w=800"
+  },
+  "contact": {
+    "mission": "Based in Amsterdam. Capturing stories globally. We take on a limited number of projects per year to ensure unparalleled cinematic quality.",
+    "email": "HELLO@MVGSTUDIOS.COM",
+    "instagram": "https://instagram.com",
+    "vimeo": "https://vimeo.com"
+  }
+}
